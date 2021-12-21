@@ -195,12 +195,12 @@
           align-items: center;
           width: 100px;
           height: 100%;
-          min-height: 100px;
+          min-height: 75px;
           .category-abbreviation {
             display: block;
             color: white;
             font-weight: bold;
-            font-size: 2em;
+            font-size: 1,4em;
           }
         }
       }
@@ -311,4 +311,3 @@
     }
   }
 }
-
